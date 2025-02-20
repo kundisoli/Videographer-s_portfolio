@@ -438,7 +438,7 @@ video {
   }
 
 
-.videosf video, .videosg video {
+.videosf video, .videosg video, .videose video, .videosd video  {
     height: 300px; 
 }
 
