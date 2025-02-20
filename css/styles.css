@@ -191,7 +191,7 @@ a {
     cursor: pointer;
 }
 .apply-btn:hover {
-    background-color: darkblue;
+    background-color: rgb(100, 100, 156);
 }
 @media screen and (min-width: 768px) {
     body {
@@ -754,6 +754,11 @@ ul{
 	flex-direction: column;
 	align-items: flex-start;
 	justify-content: flex-start;
+}
+.full-width-img {
+    margin-left: 10px;
+    width: 90%;
+    height: 50vh;
 }
 .blog-image {
 	width: 100%;
